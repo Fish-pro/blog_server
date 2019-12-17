@@ -41,27 +41,6 @@ web框架：gin
 #### h5---->vue
 
 #### manage--->vue
-10.用户管理
-
-11.点赞
-
-12.行为记录
-
-### 技术栈
-
-#### server---->go
-
-web框架：gin
-
-数据库：mongo
-
-缓存：redis
-
-消息队列：kafuka
-
-#### h5---->vue
-
-#### manage--->vue
 
 ### git
 ```cassandraql
