@@ -1,0 +1,32 @@
+debug: true
+
+server:
+  host: "0.0.0.0"
+  port: "9100"
+
+mongodb:
+  host: "47.99.56.228"
+  port: "27017"
+  user: "admin"
+  passwd: "123456"
+  dbname: "blog"
+
+redis:
+  host: "47.99.56.228"
+  port: "6379"
+  passwd: "czc123"
+  db: 0
+
+auth:
+  mongodb:
+    host: "47.99.56.228"
+    port: "27017"
+    user: "adming"
+    passwd: "123456"
+    dbname: "user"
+  redis:
+    host: "47.99.56.228"
+    port: "6379"
+    passwd: ""
+    db: 1
+

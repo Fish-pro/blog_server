@@ -43,7 +43,7 @@ web框架：gin
 #### manage--->vue
 
 ### git
-```cassandraql
+```git
 git remote add origin https://github.com/Fish-pro/blog_server.git
 git push -u origin master
 ```
