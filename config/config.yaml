@@ -7,7 +7,7 @@ server:
 mongodb:
   host: "47.99.56.228"
   port: "27017"
-  user: "admin"
+  user: "blogadmin"
   passwd: "123456"
   dbname: "blog"
 
@@ -15,18 +15,18 @@ redis:
   host: "47.99.56.228"
   port: "6379"
   passwd: "czc123"
-  db: 0
+  db: 6
 
 auth:
   mongodb:
     host: "47.99.56.228"
     port: "27017"
-    user: "adming"
+    user: "root"
     passwd: "123456"
-    dbname: "user"
+    dbname: "testrole"
   redis:
     host: "47.99.56.228"
     port: "6379"
-    passwd: ""
-    db: 1
+    passwd: "czc123"
+    db: 10
 
